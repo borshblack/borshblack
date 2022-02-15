@@ -1,4 +1,5 @@
 <img alt="naruto" src="https://thumbs.gfycat.com/RareResponsibleBluebottle-max-1mb.gif" height="100px" />
+<img src="https://www.codewars.com/users/BorshBlack/badges/large"/>
 
 ## Обо мне
 Мне 20 лет, професионально занимаюсь Frontend разработкой
