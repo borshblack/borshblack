@@ -2,7 +2,6 @@
 <img src="https://www.codewars.com/users/BorshBlack/badges/large"/>
 
 ## Обо мне
-Мне 20 лет, професионально занимаюсь Frontend разработкой
 
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
