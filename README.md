@@ -1,6 +1,7 @@
-<img alt="naruto" src="https://thumbs.gfycat.com/WarlikeSarcasticBedlingtonterrier-size_restricted.gif" height="150px" />
+<img alt="naruto" src="https://thumbs.gfycat.com/RareResponsibleBluebottle-max-1mb.gif" height="100px" />
 
-### Всем привет ✨
+## Обо мне
+Мне 20 лет, професионально занимаюсь Frontend разработкой
 
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
