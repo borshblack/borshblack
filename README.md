@@ -1,4 +1,6 @@
-### Hi there 👋
+<img alt="naruto" src="https://thumbs.gfycat.com/WarlikeSarcasticBedlingtonterrier-size_restricted.gif" height="150px" />
+
+### Всем привет ✨
 
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
