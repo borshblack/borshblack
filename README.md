@@ -2,6 +2,11 @@
 <img src="https://www.codewars.com/users/BorshBlack/badges/large"/>
 
 ## Обо мне
+Пишу на JavaScript более 3-х лет, в разработке использую TypeScript. 
+
+Пишу SPA, SSR приложения на: 
+- 💪 React.js, Redux/Thunk.js
+- 👾 GraphQL, Apollo React Client
 
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
