@@ -1,4 +1,3 @@
-<img width="100%" src="https://sun9-83.userapi.com/impg/fl_rmY6qcJun9OrfOhx4dmJSGuPunj8Qy9YVTw/EtBqlXC6Dws.jpg?size=860x315&quality=95&sign=411860195b09758676e9cffbab6631ff&type=album" />
 
 ## Обо мне
 Пишу на JavaScript более 3-х лет, в разработке использую TypeScript. 
