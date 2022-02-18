@@ -5,6 +5,7 @@
 - 💪 React.js, Redux/Thunk.js
 - 👾 GraphQL, Apollo React Client
 
+<img src="https://pa1.narvii.com/6736/522cd5a07d48fd109df786876f455fca3508c7e1_hq.gif" />
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
