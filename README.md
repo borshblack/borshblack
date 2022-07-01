@@ -18,7 +18,8 @@
 - 👾 GraphQL, Apollo React Client
 - 🐙 Git (понимаю git flow, искусно соединяю две ветки во едино)
 
-<img src="https://i.gifer.com/174i.gif" />
+
+<img src="https://www.codewars.com/users/BorshBlack/badges/large" titl="Codewars: 5kyu, BorshBlack"/>
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
