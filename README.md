@@ -20,6 +20,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=borshblack&show_icons=true&theme=radical" />
 <img src="https://www.codewars.com/users/BorshBlack/badges/large" titl="Codewars: 5kyu, BorshBlack"/>
+<img src="https://komarev.com/ghpvc/?username=borshblack" alt="Profile Views" />
 <!--
 **borshblack/borshblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
