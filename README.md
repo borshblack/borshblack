@@ -14,7 +14,7 @@
 - 🧱 HTML (vanilla, pug), CSS (vanilla, postCSS, less, scss/sass)
 - 📀 JavaScript/ TypeScript (ES5+)
 - 🧵 TypeScript
-- 💪 React.js, Redux/Thunk.js
+- 💪 React.js, Redux/Thunk.js, MobX
 - 👾 GraphQL, Apollo React Client
 - 🐙 Git (понимаю git flow, искусно соединяю две ветки во едино)
 
