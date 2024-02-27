@@ -8,12 +8,15 @@
 В свободное от работы время - катаюсь на велосипеде, играю на гитаре, читаю техническую литературу, статьи.
 
 ## Мои навыки
-- 🧱 HTML (vanilla, pug), CSS (vanilla, postCSS, less, scss/sass)
-- 📀 JavaScript/ TypeScript (ES5+)
-- 🧵 TypeScript
-- 💪 React.js, Redux/Thunk.js, MobX
+- 🧱 HTML (vanilla, pug)
+- 🦸 CSS (Emotion, Styled-Components, StyleX, TailwindCSS)
+- 📀 JavaScript (ES5+)
+- 🧵 TypeScript (Type Guards, Mapped Types, Narrowing, Inferences, Declarations)
+- 💪 React.js, Redux Toolkit/Thunk.js, MobX
 - 👾 GraphQL, Apollo React Client
-- 🐙 Git (понимаю git flow, искусно соединяю две ветки во едино)
+- 🐙 Git (понимаю git flow, искусно соединяю две ветки во едино в CLI)
+- 📦 Сборщики Webpack, Esbuild, Vite
+- 🌳 Транспайлеры Babel, SWC, TSC
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=borshblack&show_icons=true&theme=radical" />
 <img src="https://www.codewars.com/users/BorshBlack/badges/large" titl="Codewars: 5kyu, BorshBlack"/>
